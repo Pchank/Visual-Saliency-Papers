@@ -16,7 +16,7 @@ Contributors
 -------------------------------------------------------------------------------------------------------------------------
 Pingping Zhang and Wenjuan Qin. 
 
-PP. Zhang is currently visiting the University of Adelaide, supported by the China Scholarship Council.
+
 
 WJ. Qin is currently a master student in the Northeast Normal University, Changchun, China.
 
