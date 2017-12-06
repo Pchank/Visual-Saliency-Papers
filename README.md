@@ -5,7 +5,7 @@ Introduction
 -------------------------------------------------------------------------------------------------------------------------
 This repo contains most of outstanding papers on visual saliency (appeared in 2013-2017). The detailed topics include image-based salient object detection, RGB-D salient object detection, human eye fixation, feature saliency visualization, video-based salient obejct detection, etc.
 
-Up to now, we colllect 148 papers (not complete yet) and focus on deep learning based saliency methods. We hope these papers will help people to better understand visual saliency and capture the trend of saliency detection in the deep learning era.
+Up to now, we colllect 148 papers (not complete yet) and focus on deep learning based saliency methods. We hope these papers will help people to better understand visual saliency and capture the trend of saliency detection in the deep learning era. For more details, pls check http://ice.dlut.edu.cn/lu/publications.html
 
 Download
 -------------------------------------------------------------------------------------------------------------------------
