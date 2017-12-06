@@ -16,11 +16,11 @@ Contributors
 -------------------------------------------------------------------------------------------------------------------------
 Pingping Zhang and Wenjuan Qin. 
 
-
+PP. Zhang is a Phd candidate in Dalian University of Technology, Dalian, China. He is currently visiting the University of Adelaide, supported by the China Scholarship Council.
 
 WJ. Qin is currently a master student in the Northeast Normal University, Changchun, China.
 
 Copyright
 -------------------------------------------------------------------------------------------------------------------------
-The copyright belongs to the authors of papers. Personal use of this material is permitted. However, permission to use this material for any other purposes must  be obtained from the authors of papers.
+The copyright belongs to the authors of papers. Personal use of this material is permitted. However, permission to use this material for any other purposes must be obtained from the authors of papers.
 
